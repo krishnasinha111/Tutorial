@@ -1,0 +1,26 @@
+C:\Users\KrishnaS3\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.exe
+C:\Users\KrishnaS3\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.deps.json
+C:\Users\KrishnaS3\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.runtimeconfig.json
+C:\Users\KrishnaS3\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.runtimeconfig.dev.json
+C:\Users\KrishnaS3\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.dll
+C:\Users\KrishnaS3\source\repos\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.pdb
+C:\Users\KrishnaS3\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.csproj.AssemblyReference.cache
+C:\Users\KrishnaS3\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.AssemblyInfoInputs.cache
+C:\Users\KrishnaS3\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.AssemblyInfo.cs
+C:\Users\KrishnaS3\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\KrishnaS3\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.dll
+C:\Users\KrishnaS3\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.pdb
+C:\Users\KrishnaS3\source\repos\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.genruntimeconfig.cache
+D:\Krishna\Design Patterns\Singleton\Singleton Design Pattern Session 8\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.exe
+D:\Krishna\Design Patterns\Singleton\Singleton Design Pattern Session 8\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.deps.json
+D:\Krishna\Design Patterns\Singleton\Singleton Design Pattern Session 8\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.runtimeconfig.json
+D:\Krishna\Design Patterns\Singleton\Singleton Design Pattern Session 8\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.runtimeconfig.dev.json
+D:\Krishna\Design Patterns\Singleton\Singleton Design Pattern Session 8\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.dll
+D:\Krishna\Design Patterns\Singleton\Singleton Design Pattern Session 8\ConsoleApp20\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.pdb
+D:\Krishna\Design Patterns\Singleton\Singleton Design Pattern Session 8\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.csprojAssemblyReference.cache
+D:\Krishna\Design Patterns\Singleton\Singleton Design Pattern Session 8\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.AssemblyInfoInputs.cache
+D:\Krishna\Design Patterns\Singleton\Singleton Design Pattern Session 8\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.AssemblyInfo.cs
+D:\Krishna\Design Patterns\Singleton\Singleton Design Pattern Session 8\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.csproj.CoreCompileInputs.cache
+D:\Krishna\Design Patterns\Singleton\Singleton Design Pattern Session 8\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.dll
+D:\Krishna\Design Patterns\Singleton\Singleton Design Pattern Session 8\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.pdb
+D:\Krishna\Design Patterns\Singleton\Singleton Design Pattern Session 8\ConsoleApp20\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.genruntimeconfig.cache
